@@ -8,7 +8,7 @@ label hunger_none:
         if firsttime:
             p "I said FUCK OFF."
             scene pull_day with vpunch
-            d "Forget your place too soon dog?"
+            d "Forgotten your place so soon, dog?"
             p "F-Fuck!"
             $fuckoff -=3
             jump sim
@@ -16,7 +16,7 @@ label hunger_none:
             jump group1
     else:
         jump sim
-    
+
 label hunger_1:
     "[d] throws a fruit near [p]"
     show m at s
@@ -26,7 +26,7 @@ label hunger_1:
     hide m_m
     show m_tired at s
     show m_m_clench at s
-    "The fruit looks dirty. It is covered in dirt from being tossed to the ground."
+    "The fruit looks dirty. It is covered in dirt from the ground."
     hide m_tired
     hide m_m_clench
     show m_surprise at s
@@ -38,22 +38,22 @@ label hunger_1:
     show m_tired at s
     show m_m_sexclench1 at s
     show m_beaten2 at s
-    "[d] tramples [p]'s head to the tree." with vpunch
-    d "You should stop your swearing habit. What a bad child!"
-    
+    "[d] slams [p]'s head against the tree." with vpunch
+    d "You should stop your swearing habit, naughty child!"
+
     show m_hurt at s
     show m_m_scream at s
     show m_beaten3 at s
     show m_shame at s
     p "....m....a" with hpunch
-    "[d] wenches his foot." 
-    
+    "[d] steps on him harder."
+
     hide m_m_scream
     hide m_m_sexclench2
     hide m_m_sexclench3
     show m_foodsmall at s
     show m_m_sexclench3 at s
-    "[d] picks the fruit up and slams it in [p]'s mouth." with vpunch
+    "[d] picks the fruit up and shoves it into [p]'s mouth." with vpunch
     d "Eat it!"
     hide m_m_sexclench3
     hide m_m_sexclench1
@@ -61,21 +61,21 @@ label hunger_1:
     "[p] purses his lips and clenches his teeth."
     "[d] laughs."
     hide m_m_sexclench1
-    hide m_foodsmall 
-    hide m_spermface at s 
+    hide m_foodsmall
+    hide m_spermface at s
     show m_beaten3 at s
     show m_foodsmall at s
     show m_m_scream at s
     show m_blush at s
-    
+
     p "AArgh!" with vpunch
-    "He kicks [p] in the stomach." 
+    "He kicks [p] in the stomach."
     hide m_m_scream
     show m_m_sexclench3 at s
-    d "If you don't know how to please others, you will have a reeeaaally haaard life."
+    d "If you don't know how to please others, you're going to have a reeeaaally hard life ahead of you."
     hide m_m_scream
-    hide m_beaten3 
-    hide m_foodsmall 
+    hide m_beaten3
+    hide m_foodsmall
     hide m_blush
     hide m_shame
     show m_close at s
@@ -85,7 +85,7 @@ label hunger_1:
     show m_blush at s
     show m_m_sexopen at s
     p "Fuck!"
-    "[p] is exhausted physically. His hunger, thirst and dirtiness increase. His psyche decrease."
+    "[p] is exhausted physically. His hunger, thirst and dirtiness increase. His psyche decreases."
     hide screen day
     hide screen stat
     scene black with fade
@@ -95,14 +95,14 @@ label hunger_1:
     $ene -=40
     $clean-=2
     jump sim
-    
+
 label hunger_2:
-    "[d] throws dozens of fruit in front of [p] as the vines retreat from his body."
+    "[d] throws dozens of fruits in front of [p] as the vines retreat from his body."
     show m_tired at s
     show m_m at s
     p "..."
     "[p] looks at [d]. [d] smirks."
-    d "If your are hungry, eat. There's no one here to show off your stuborness. Hunger will just make your brain starved into submission faster."
+    d "If you are hungry, then eat. There's no one here for you to show off your stubbornness. Hunger will just starve your brain into submission faster."
     hide m_m
     show m_m_sexclench2 at s
     p "(Fuck!)"
@@ -114,7 +114,7 @@ label hunger_2:
     d "You can."
     hide m_m_clench
     show m_m at s
-    p "..." 
+    p "..."
     hide m_m
     hide m_tired
     show m_close at s
@@ -123,21 +123,21 @@ label hunger_2:
     p "(..Fuck!)"
     scene food
     "[p] bends down and eats."
-    p "(Stink!)"
-    p "...*chomp.. *chomp.."   
-     
+    p "(It stinks!)"
+    p "...*chomp*.. *chomp*.."
+
     show m_tired at s
     show m_m_sexclench2 at s
     show m_food1 at s
     show m_shame at s
-    p "(Bastard! It's full of dirt.)"
-    scene food_tram with vpunch   
-    "[d] tramples [p]'s head." 
-    scene food_trama 
+    p "(Bastard, it's full of dirt!)"
+    scene food_tram with vpunch
+    "[d] steps on [p]'s head."
+    scene food_trama
     p "Urg...mmm..."
     scene food_tram
-    d "Hurry up prince. Don't be so picky. Please understand this is not your palace."
-    scene fooda 
+    d "Hurry up prince. Don't be so picky. Do understand that this isn't your palace."
+    scene fooda
     show m_close at s
     show m_food1 at s
     show m_shame at s
@@ -157,30 +157,30 @@ label hunger_2:
     $clean-=3
     scene black with dissolve
     jump sim
-    
-label hunger_obe:   
-    "[d] throws dozens of fruit in front of [p]. The fruit were covered in a sticky white liquid."
+
+label hunger_obe:
+    "[d] throws dozens of fruit in front of [p]. The fruits are covered in a sticky white liquid."
     show m_tired at s
     show m_m1 at s
-    d "Food with special favor for you."
+    d "A special treat, just for you."
     show m_close at s
     show m_m_open2 at s
     show m_shame at s
     p "..."
-    "[p] bends down and eats"
+    "[p] bends down and eats."
     scene food_sperm
     hide tie_looka
     d "Won't ask what it is?"
     d "Well, I guess you already know."
     p "...."
-    d "Before you have your meal, clean up the special flavor on the ground first."
+    d "Before you have your meal, clean up the sticky mess on the ground first."
     p "..."
     show food_tram_sperm with hpunch
-    d "You are so slow! I heard the prince never hesitated in anything, I guess they were wrong. Let me assist you [p]!"
+    d "You're taking too long. I heard that the prince never hesitated in anything, but I guess the rumors were wrong. Why don't I assist you, [p]?"
     p "...m..."
-    "[p] chews the smashed fruit, dirt and the white liquid."
+    "[p] chews up the smashed fruit, dirt and cum."
     p "..."
-    d "Shouldn't the prince thank me for the help? Or does he want to eat dirt and sperm forever?"
+    d "Shouldn't you be thanking me for the help? Or do you intend on eating dirt and semen forever?"
     p "...h..."
     show m_hurt at s
     show m_m_sexclench1 at s
@@ -189,12 +189,12 @@ label hunger_obe:
     show m_beaten1 at s
     show m_food at s
     p "...T-thank you for your help..."
-    d "Good job! Now you can have your meal."
+    d "Good job! Now you can enjoy your meal."
     hide food_tram_sperm
     p "..."
 
-    "[p] is exhausted physically and mentally. His pride and psyche decrease. His hunger decrease."
-    "[p]'s thirst and dirtiness increases"
+    "[p] is exhausted physically and mentally. His pride and psyche decrease. His hunger decreases."
+    "[p]'s thirst and dirtiness increases."
     hide screen day
     hide screen stat
     scene black with fade

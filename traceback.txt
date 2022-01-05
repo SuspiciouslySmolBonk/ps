@@ -1,32 +1,36 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
+  File "game/sim.rpy", line 12, in script call
+    call screen tie
   File "game/sim2.rpy", line 12, in script call
     call screen sit
-  File "game/control.rpy", line 1541, in script
-    scene temple with dis
-  File "game/control.rpy", line 1541, in <module>
-    scene temple with dis
-NameError: name 'dis' is not defined
+  File "game/sim2.rpy", line 67, in script
+    if ene <=0:
+  File "game/sim2.rpy", line 69, in <module>
+    elif goodend_announce==False and talk >=20:
+NameError: name 'goodend_announce' is not defined
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
+  File "game/sim.rpy", line 12, in script call
+    call screen tie
   File "game/sim2.rpy", line 12, in script call
     call screen sit
-  File "game/control.rpy", line 1541, in script
-    scene temple with dis
-  File "D:\PROGRAM\RENPYY\renpy-7.3.5-sdk\renpy\ast.py", line 1385, in execute
-    paired = renpy.python.py_eval(self.paired)
-  File "D:\PROGRAM\RENPYY\renpy-7.3.5-sdk\renpy\python.py", line 2059, in py_eval
+  File "game/sim2.rpy", line 67, in script
+    if ene <=0:
+  File "renpy/ast.py", line 1898, in execute
+    if renpy.python.py_eval(condition):
+  File "renpy/python.py", line 2276, in py_eval
     return py_eval_bytecode(code, globals, locals)
-  File "D:\PROGRAM\RENPYY\renpy-7.3.5-sdk\renpy\python.py", line 2052, in py_eval_bytecode
+  File "renpy/python.py", line 2269, in py_eval_bytecode
     return eval(bytecode, globals, locals)
-  File "game/control.rpy", line 1541, in <module>
-    scene temple with dis
-NameError: name 'dis' is not defined
+  File "game/sim2.rpy", line 69, in <module>
+    elif goodend_announce==False and talk >=20:
+NameError: name 'goodend_announce' is not defined
 
-Windows-8-6.2.9200
-Ren'Py 7.3.5.606
+Windows-10-10.0.19041
+Ren'Py 7.4.11.2266
 Pride and Submission 1.4
-Fri Sep 24 22:05:23 2021
+Tue Jan  4 18:23:05 2022

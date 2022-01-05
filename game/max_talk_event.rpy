@@ -1,6 +1,6 @@
 label morning_greet1:
     scene sit_up
-    "Morning."
+    "Morning rolls around."
     show m
     show m_cockdown
     show m_m1
@@ -58,7 +58,7 @@ label morning_greet1:
     jump simbutton2
 label morning_greet2:
     scene sit_sad
-    "Morning"
+    "Morning rolls around."
     show m
     show m_cockdown
     show m_m1
@@ -97,7 +97,7 @@ label morning_greet2:
     show m_shame
     show m_m2
     "[d] smiles."
-    d "Ok."
+    d "Okay."
     scene sit_up
     show m_close
     show m_cockdown
@@ -116,7 +116,7 @@ label morning_greet2:
     jump simbutton2
 label morning_greet3:
     scene sit_sad
-    "Morning"
+    "Morning rolls around."
     show m
     show m_cockdown
     show m_m1
@@ -189,7 +189,7 @@ label morning_greet3:
     show m_blush
     show m_shame
     show m_m
-    d "If you don't want me to kiss you, don't avert my eyes. Do you hate my face that much?"
+    d "If you don't want me to kiss you, don't avert your eyes. Do you hate my face that much?"
     scene sit_up
     show m_surprise
     show m_cockdown

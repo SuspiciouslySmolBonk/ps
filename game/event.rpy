@@ -12,7 +12,7 @@ label faint:
     scene black
     "[p] fainted from poor care."
     "[d] gives him food, water and lets him rest for a day."
-    "His thirst and hunger decrease. His psyche increase."
+    "His thirst and hunger decrease. His psyche increases."
     $water =20
     $food =20
     $mental +=3
@@ -20,8 +20,8 @@ label faint:
     jump sim
 
 
-       
-       
+
+
 ################################################################################################################################################################################################ End day
 label justendday:
     $firstMos =1
@@ -29,11 +29,11 @@ label justendday:
     hide screen stat
     scene black with dissolve
     pause .5
-    "[p] still haven't recover from yesterday. [d] lets him rest for a day."
+    "[p] still hasn't recovered from yesterday. [d] lets him rest for a day."
     $day +=1
     $clean = 100
     jump newday
-    
+
 label endday:
     if firstMos == 1 and clean<=30 and clean>0:
         jump bath30
@@ -54,27 +54,27 @@ label endday:
         show m_blush at s
         p "..."
         hide m_close
-        hide m_m1 
+        hide m_m1
         hide m_shame
-        hide m_blush 
+        hide m_blush
         show m_tired at s
         show m_shame at s
         show m_m_open2 at s
         show m_blush at s
         p "Please untie me. I need to pee."
         d "You can pee right there."
-        hide m_tired 
-        hide m_shame 
-        hide m_m_open2 
-        hide m_blush 
+        hide m_tired
+        hide m_shame
+        hide m_m_open2
+        hide m_blush
         show m_surprise at s
         show m_shame at s
         show m_m_clench at s
         show m_blush at s
         p "..."
-        hide m_surprise 
-        hide m_shame 
-        hide m_m_clench 
+        hide m_surprise
+        hide m_shame
+        hide m_m_clench
         hide m_blush
         show m_close at s
         show m_shame at s
@@ -86,8 +86,8 @@ label endday:
                 scene darkforest with dissolve
                 hide m_close
                 hide m_shame
-                hide m_m_clench 
-                hide m_blush 
+                hide m_m_clench
+                hide m_blush
                 show m_surprise at left
                 show m_shame at left
                 show m_m at left
@@ -101,7 +101,7 @@ label endday:
                 hide m_m
                 hide m_blush
                 hide m_cockup
-                "[p] goes away then come back"
+                "[p] goes away for a while, then comes back."
                 show m_tired at left
                 show m_shame at left
                 show m_m at left
@@ -111,95 +111,95 @@ label endday:
                 hide m_m
                 show m_m1 at left
                 p "..."
-                d "Smart choice. I'll let you rest from now."
+                d "Smart choice. I'll let you rest for now."
                 p "..."
                 jump controlnote
                 jump newday
-                
-                
-            
-                
+
+
+
+
             "Make him pee":
                 if mental >=35 and pride >=35:
-                    
+
                     d "Let see how long the prince can hold back."
                     p "Fuck you!"
-                    "[d] step closer as [p] tries to moves backward."
-                    d "Don't have to be scared, I'll make you feel better."
+                    "[d] steps closer as [p] tries to moves backwards."
+                    d "Don't be scared, I'll make you feel better."
                     p "No! Stop!"
                     "[d] stomps hard on [d]'s stomach repeatedly."
                     p "Arghhh!..Argh!!"
-                    "[p] peed ton the ground."
+                    "[p] spilled his piss onto the ground."
                     p "..."
                     "[d] laughs"
                     $mental -=10
                     $pride -=10
-                    d "Dogs urine mark when they become highly aroused, overstimulate or having anxiety. I wonder what it is in your case."
+                    d "Dogs mark with their urine either when they're highly aroused, overstimulated or anxious. I wonder which one it is in your case."
                     p "...F-fuck.."
-                    $water =70                    
+                    $water =70
                     $clean -=5
                     jump controlnote
-                    "[p]'s psyche and pride decrease. He becomes dirtier"
+                    "[p]'s psyche and pride decrease. He becomes dirtier."
                     jump newday
                 else:
                     d "Hurry dog. You know what happens if I wait too long."
                     p "..."
-                    "[p] peed on the ground"
+                    "[p] pees on the ground"
                     p "...m..."
-                    d "Hmp, stink! You just dirty the ground. Clean it up with your mouth."
+                    d "Hmph, it stinks! You've just dirtied the ground. Clean it up with your mouth."
                     "The vines release [p]"
-                    d "Chop chop"
+                    d "Chop chop."
                     p "...no..."
-                    d "Don't let me repeat twice!"
+                    d "Don't make me repeat myself twice!"
                     p "...No [d]...please have mercy."
                     d "Huh?"
-                    p "..I-it enough. I can't take it anymore. Please...don't make me look despicable more than you already have..."
-                    d "...Hmp..."
+                    p "...Th-that's enough. I can't take it anymore. Please...don't make me look more despicable more than you already have..."
+                    d "...Hmph..."
                     p "...Please spare me... I'm begging you.."
                     menu:
                         "Force him":
-                            d "Still be able to talk back huh?"
-                            "[d] holds the dirt and pee mixure then violently rams it on [p]'s mouth."
+                            d "Still able to talk back, huh?"
+                            "[d] grabs a fistful of the mixture of dirt and piss, violently ramming it into [p]'s mouth."
                             p "...m..."
-                            d "Open your mouth and eat it before I make you clean all your mess."
+                            d "Open your mouth and eat it before I make you clean all of your mess."
                             p "..."
                             "[p] chews some of the dirt in [d]'s hand."
-                            p "*Gulp"
-                            "[p] choked"
-                            p "*cough *cough"
-                            d "How does it taste prince?"
-                            p "*Gulp"
+                            p "*gulp*"
+                            "[p] chokes."
+                            p "*cough* *cough*"
+                            d "How does it taste, prince?"
+                            p "*Gulp*"
                             p "..."
                             d "Huh?"
                             p "..."
-                            p "...It...horrible..."
-                            d "Huh?"
+                            p "...It's...horrible..."
+                            d "Hmm? What's that? I don't think I've heard you correctly."
                             p "..."
                             p "...It-..."
-                            d "The mixture of my pee and the dirt..."
+                            d "The mixture of my piss and the dirt..."
                             p "..."
-                            p "..The mixture of my pee and the dirt...t-taste...delicous..."
+                            p "..The mixture of my piss and the dirt...t-tastes...delicious..."
                             "[d] laughs."
-                            d "Your taste is weird, even worse than a pig."
+                            d "Your taste is weird, even worse than that of a pig."
                             p "...m.."
                             "[d] touches [p]'s face."
-                            d "If you like it that much, finish the rest!"
+                            d "If you like it that much, finish up the rest!"
                             p "..."
-                            "[p] eats the mixure on his face and [d]'s hand."
+                            "[p] eats up the remaining mixture both on his face and from [d]'s hand."
                             p "...n..."
                             "[d] pulls [p]'s hair back."
                             p "...argh..."
                             d "Seems like you understand your place now."
-                            d "Remmember this well. Now you are even lower than a dog." 
-                            "[p] exausted physically. His pride and psyche decrease dramatically."
-                            "His thirst increases for eating dirt and piss. He becomes dirtier."
+                            d "Remember this well. Now you've stooped even lower than a dog."
+                            "[p] is exhausted physically. His pride and psyche decreases dramatically."
+                            "His thirst increases from eating dirt and piss. He becomes dirtier."
                             p "..."
                             $water =70
                             $pride -=15
                             $mental -=15
                             $clean -=7
                             jump controlnote
-                            
+
                         "Spare him":
                             "[d] laughs"
                             d "You understand how to beg now."
@@ -208,7 +208,7 @@ label endday:
                             d "Show me your appreciation!"
                             p "..."
                             p "T-thank yo..."
-                            d "Do you even have a brain? I'm not untie you for that."
+                            d "Do you even have a brain? I didn't untie you for that."
                             p "..."
                             d "How does a dog show appreciation to its owner?"
                             p "..."
@@ -226,8 +226,8 @@ label endday:
                             p "...You win..."
                             d "Huh?"
                             p "..."
-                            d "Hahaha! Seem like your master trained you well."
-                            "[p] exausted physically. His pride and psyche decrease. He becomes dirtier"
+                            d "Hah. Seems like your master has trained you well."
+                            "[p] is exhausted physically. His pride and psyche decrease. He becomes dirtier"
                             p "..."
                             $water =70
                             $pride -=10
@@ -260,11 +260,11 @@ label endday:
         "[p] feels ashamed of himself. His pride decreases."
         $ nothing = 1
         jump controlnote
-    else:            
+    else:
         d "Let's let him rest."
         jump controlnote
         jump newday
- 
+
 
 label controlnote:
     p "Ngh..."
@@ -276,10 +276,10 @@ label controlnote:
             jump newday
     else:
         jump newday
-       
+
 
 label newday:
-    "[p]'s thirst and hunger increase as day went by."
+    "[p]'s thirst and hunger increased as the day went by."
     hide screen day
     hide screen stat
     $day +=1
@@ -293,7 +293,7 @@ label newday:
         jump sim
     else:
         jump jumpsim
-        
+
 label jumpsim:
     $ene =100
     hide screen day
@@ -372,7 +372,7 @@ label endday2:
         if roll == 1:
             jump morning_greet1
         elif roll == 2:
-            jump morning_greet2  
+            jump morning_greet2
         elif roll == 3:
             jump morning_greet3
     else:
@@ -382,10 +382,3 @@ label endday2:
         "A new day has come."
     $ene = 100
     jump simbutton2
-
-
-
-
-
-        
-    

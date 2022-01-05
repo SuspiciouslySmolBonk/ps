@@ -18,28 +18,28 @@ label group1: #pride+mental <50
     show m_m_sexclench2 at s
     show m_beaten1 at s
     show m_blush at s
-    "[d] throws [p] to a tree root." with vpunch
-    d "Tie him tight, Pitchy!"
+    "[d] throws [p] against a tree root." with vpunch
+    d "Tie him up tight, Pitchy!"
     scene anal_hitfast
     p "F-fuck!"
     p "Arrghh!...Ahhhh...S-Stop!"
     d "Beg me!"
     p "Ugh! Agrhhh...."
     scene anal_hitbfast
-    p "Arghhhh..."
-    p "Ahhh...aaaaa"
+    p "Aghhhh..."
+    p "Ahhh...aaaaa.."
     scene anal_hitd
     p "Haaaa...haaa..."
-    d "Because you are such an obedient kid, I have invited some guests to pleasure you."
-    d "I'm sure their dicks reach your standard."
-    p "*gulp *sob ...aaahhh...haaa...W-What?"
+    d "Because you've been such an obedient pet, I've invited some guests over to pleasure you."
+    d "I'm sure their dicks will meet your standards."
+    p "*gulp* *sob* ...aaahhh...haaa...W-What?"
     "[p] feels anxious by the sudden change of aura."
     d "Pitchy!"
     scene sky with hpunch
     show m_surprise
     show m_m_sexclench2
     show m_cockdown
-    "The vines violently throw [p] on air." with hpunch
+    "The vines violently throw [p] into the air." with hpunch
     hide m_m_sexclench2
     show m_m_sexclench1
     p "S-Shit!" with vpunch
@@ -47,7 +47,7 @@ label group1: #pride+mental <50
     show m_m
     show m_beaten1
     show reinhand
-    "A hand catches [p]" with hpunch
+    "A hand catches [p] in his descent." with hpunch
     hide m_m
     show m_m_open1
     p "W-What the fuck?"
@@ -64,7 +64,7 @@ label group1: #pride+mental <50
     show m_cockup
     show reinred
     show reinhand
-    "Two giant monsters sqeeze [p]. He was unable to fight back." 
+    "Two giant monsters grip onto [p]. He is unable to fight back."
     hide m_cockup
     hide m_hurt
     hide m_beaten1
@@ -80,7 +80,7 @@ label group1: #pride+mental <50
     show reinred
     show reinhand
     p "Ngh!"
-    m "Nice holes!"
+    m "Nice hole you have there!"
     hide m
     hide m_blush
     hide m_cockup
@@ -100,9 +100,9 @@ label group1: #pride+mental <50
     p "Mphhh...nn..."
     m "Stop struggling, pig!!"
     p "Mgh!"
-    m "Shit! This trash scratched me!"
-    m "With his bare hands? You are so weak!"
-    m "Fuck!! I'll rip this fucking dumpster's arms and legs off."
+    m "Shit! The trash scratched me!"
+    m "With his bare hands? You're so weak!"
+    m "Fuck!! I'll rip this fucking dumpster's arms and legs off!"
     show m_surprise at s
     show m_m_open1 at s
     show m_blush at s
@@ -111,7 +111,7 @@ label group1: #pride+mental <50
     show m_m_sexclench2 at s
     "The monster looks at [d]. [d] smiles."
     d "Why not? It's easier to fuck him that way."
-    hide m_m_sexclench2 
+    hide m_m_sexclench2
     hide m_blush
     show m_m at s
     show m_blush at s
@@ -130,9 +130,9 @@ label group1: #pride+mental <50
     show m at s
     show m_blush at s
     show m_m at s
-    d "But, if I got bored after that, I'll rip off all your limps and throw you into the leeches' cave." 
-    m "!" 
-    d "Rip off his limbs right now or fuck him harder. I'm starting to get bored."
+    d "But, if I got bored of him after that, I'll be sure to rip off all {i}your{/i} limbs and throw you into leech infested caves."
+    m "!"
+    d "Rip off his limbs right now, or fuck him harder. I'm starting to get bored."
     hide m_m
     hide m_m_sexclench2
     show m_m_sexclench1 at s
@@ -148,7 +148,7 @@ label group1: #pride+mental <50
     m "It's so warm. I'm about to cum."
     m "Me too!"
     p "Mgh! Hhhh...Ngh..."
-    m "Sir [d], can we hatch our eggs inside him? I cannot take it anymore! My eggs! They want to come!"
+    m "Sir [d], can we fill him up with our eggs? I cannot take it anymore! My eggs, they're coming out!"
     hide m_blush
     hide m_shame
     hide m_sperm
@@ -168,27 +168,27 @@ label group1: #pride+mental <50
             d "Go ahead! That sounds interesting"
             d "What do you think [p]?"
             p "Mmmm...nnnn..."
-            p "(S-shit! You are insanse)"
+            p "(S-shit! You are insane)"
             scene rein_faster
             m "Thank you sir!"
-            "[p] struggles more. However, it was all pointless. Without weapons, the human has no chance against the giant monsters. Not to mention, these monsters are the strongest [p] had ever encounter aside from [d]."
+            "[p] struggles more. However, it was all pointless. Without weapons, the human has no chance against the giant monsters. Not to mention, these monsters are the strongest [p] has ever encountered aside from [d]."
             p "Hmmph! Ngh!"
             p "M...N...H!"
             scene rein_egg with hpunch
-            "The eggs keep coming in [p]'s ass. There's no end to it." 
+            "The eggs keep flooding into [p]'s ass. There's no end to it."
             p "Mrgh....Ngh..." with vpunch
-            p "(Too big! Don't shoot anymore! My ass and stomach cannot stretch that much!)"
-            "[p] looks at [d] while he is drinking water. [d] looks at [p] and smirks."
+            p "(T-too big! Please stop filling me up! My ass and stomach can't stretch that much!)"
+            "[p] looks at [d] while he's taking a sip of water. [d] looks at [p] and smirks."
             p "Urgh! Mrpgh!" with hpunch
             p "(Stop!)\n(No more!)"
-            p "(I feel like I'm dying.)"
-            d "Do you know why monsters like human [p]?"
+            p "(I feel like I'm dying!)"
+            d "Do you know why monsters like humans, [p]?"
             p "MPGH! NRGH!"
-            d "The human's hole temperature is the most fit for monster's eggs to grow. Don't worry, unlike humans, the baby monsters will make it way out soon. You don't have to move with that bumped stomach."
-            d "Even though it'll be interesting to see."
+            d "The human's core temperature is most suitable for monster's eggs to grow. But don't worry, unlike humans, the baby monsters will make their way out very soon. You don't even have to move with that bloated stomach."
+            d "Even though it'll certainly be an interesting sight to behold."
             p "(Shit!)"
             scene baby_sperm_egg with vpunch
-            "The monsters toss [p] to the ground and pull his hair." 
+            "The monsters toss [p] onto the ground and pull on his hair."
             show m_hurt at s
             show m_m_1 at s
             show m_blush at s
@@ -198,12 +198,12 @@ label group1: #pride+mental <50
             hide m_m_1
             show m_m_sexclench3 at s
             scene baby_sperm_eggfast with hpunch
-            m "Tighter, human. For our babies to come out fast."
-            "The eggs inside [p]'s stomach still not yet reach its true size. The monsters want [p] to squeeze them to force the eggs grow faster.."
+            m "Tighter, human. For our offspring to emerge faster."
+            "The eggs inside [p]'s stomach has yet to reach its true size. The monsters want [p] to squeeze them to force the eggs grow faster.."
             hide m_m_sexclench3
-            hide m_hurt 
-            hide m_blush 
-            hide m_shame 
+            hide m_hurt
+            hide m_blush
+            hide m_shame
             hide m_beaten1
             show m_close at s
             show m_blush at s
@@ -213,9 +213,9 @@ label group1: #pride+mental <50
             p "S-Shit!"
             hide m_close
             hide m_m_sexopen
-            hide m_hurt 
-            hide m_blush 
-            hide m_shame 
+            hide m_hurt
+            hide m_blush
+            hide m_shame
             hide m_beaten1
             show m_surprise at s
             show m_m_sexclench1 at s
@@ -224,35 +224,35 @@ label group1: #pride+mental <50
             show m_beaten1 at s
             p "Urgh!"
             scene baby_sperm_eggfaster with vpunch
-            "A monster presses his head harder."
+            "A monster clenches his head harder."
             hide m_surprise
             hide m_m_sexclench3
-            hide m_hurt 
-            hide m_blush 
-            hide m_shame 
+            hide m_hurt
+            hide m_blush
+            hide m_shame
             hide m_beaten1
             show m_close at s
             show m_m_sexclench3 at s
             show m_blush at s
             show m_shame at s
             show m_beaten1 at s
-            m "Worthless pieces of shit!"
-            hide m_m_sexclench3 
+            m "Worthless piece of shit!"
+            hide m_m_sexclench3
             show m_m_sexopen at s
             p "Ngh...Nghh...h...mhhh..."
             "[p] tries to breathe."
             hide m_surprise
             hide m_m_sexopen
             hide m_close
-            hide m_blush 
-            hide m_shame 
+            hide m_blush
+            hide m_shame
             hide m_beaten1
             show m_hurt at s
             show m_blush at s
             show m_shame at s
             show m_m_1 at s
             show m_beaten1 at s
-            m "Tighter, you breeding object!"
+            m "Tighter, you breeding bitch!"
             hide m_m_1
             show m_m_sexopen at s
             p "Aaaa...aaahhh...hhh...nngh...mrph..."
@@ -265,45 +265,45 @@ label group1: #pride+mental <50
             show m_m_scream at s
             p "ARGHHH! ARGGGHHH!"
             scene baby_out with vpunch
-            "The eggs grow bigger and the baby monsters start to come out. They press themselves forth and back to make their way out."
+            "The eggs grow bigger and the baby monsters are beginning to emerge. They wiggle themselves back and forth, attempting to make their way out."
             p "Nnn...aaaa...Help! Stop this...aaa...\nI'm gonna die...nn...Help me..."
-            "[d] smirk."
+            "[d] smirks."
             p "ARGHHH!...AHHHH...NO! URGHHH..."
             scene baby_outfast
             p "AHHHHH! MMRGGHHH!"
             p "Please stop the monsters from coming out! My ass...ARGHHH!"
             m "Mama! Mama!"
-            "All the baby monsters get out start to come to [p]'s place."
-            p "No! Stop! Don't come here! D-Arghhhh....Ahhhhh...Stop! Don't come out...Mghhhhh...."
-            "[d] continues to drink water and enjoy the view."
+            "All the baby monsters who have emerged begin clambering onto [p]."
+            p "No! Stop! Get away from me! D-Arghhhh....Ahhhhh...Stop! Don't come out...Mghhhhh...."
+            "[d] continues to drink water as he enjoys the view."
             scene babies_out
-            "The baby monsters that just got out climb to [p]'s body and suck his ear, mouth, neck, armpit, balls and cock while the baby monsters inside [p] didn't have enough space that they fight each other to get out."
+            "The baby monsters which had just been birthed climb onto [p]'s body, beginning to suck on his ear, mouth, neck, armpit, balls and cock. All the while, the baby monsters inside [p] begin fighting each other for space as they attempt to get out."
             m "Mama! Mama!"
             p "ARGHHHH! NO!..I'M GONNA DIE...I'm GONNA DIE...ARGHHHH!"
             p "*Sob...Arghhhh!...It hurts so much! Please help me! Tell them to stop!"
-            d "Are you talking to the sky? Sure! The sky will somehow save the prince and bring him back to his glorious palace where he respected by everyone, not a fucking toy like he is now."
+            d "Are you talking to the sky itself? Oh, I'm sure it'll somehow save the poor prince and bring him back to his glorious palace where he is respected by everyone, unlike the fucktoy he is now."
             scene babies_outfast
             p "No! Please [d]! Help me! Tell them to stop!"
-            "[d] leaves his waterskin and come to [p]'s place."
+            "[d] puts down his waterskin and approaches [p]."
             d "Too late, prince."
             p "Arghhhh! Please stop! Please stop! My ass hurt so much! Help me [d]!"
-            d "What a beautiful scene!"
+            d "What a beautiful scene this is!"
             scene babies_outfaster
-            p "Mrgh..Ngh!...P-please be mercy [d]! Forgive me! I was wrong! Please stop it!"
+            p "Mrgh..Ngh!...P-please have mercy [d]! Forgive me! I was wrong! Please stop it!"
             d "I already told you. It's too late. Be patient [p], all the babies will come out soon."
             p "*Sob..*sob...No...Urghhhh!...Ahhhhh..."
-            d "You have killed so many of my kin, it doesn't look that bad when you give birth to some in return."
+            d "You have killed so many of my kin, it really isn't that bad when you give birth to some in return."
             p "*Sob...*sob..."
             p "Aaahhh...aaaa....mrph...F-Fuck...Ngh...mphhh..."
-            "Monsters after monster get out of [p]'s asshole."
+            "Monster after monster emerged from [p]'s asshole."
             p "Aaaa....ngh....hh...aaa..."
             p "*sob *sob"
             p "S-shit....aaaa...."
-            "The baby monsters become more aggressive. They use all their strength to fight each other inside [p]'s tight ass."
-            p "Haa...haaa...aaaaa...ngh...S-hit...Stop! It hurts. I gonna die...Stop...I'm goona die..."
-            d "Too bad, it doesn't seems like you will die anytime soon."
+            "The baby monsters are growing more restless, using all their strength to fight each other inside [p]'s tight ass."
+            p "Haa...haaa...aaaaa...ngh...S-hit...Stop! It hurts. I gonna die...Stop...I'm gonna die..."
+            d "Too bad, it doesn't seems like you will anytime soon."
             p "Please help me [d]... Make them stop..."
-            d "It's useless begging me. But you can continue if you like."
+            d "It's useless begging me. All you can do is continue, if you'd like."
             p "S-Shit...Ngh...Nghh...h...mrhh...S-stop...It hurts..."
             scene babies_outfast
             p "Argh...Argh...Urgh....Mphhhh..."
@@ -311,10 +311,10 @@ label group1: #pride+mental <50
             scene babies_outfaster
             p "Aaaa....ngh....hh...aaa...aaaaaaa..."
             d "Those babies seem strong."
-            m "Thank you very much sir [d]."
+            m "Thank you very much, sir [d]."
             p "Urgh...ahhh...Mrph.....Help...aaahhh...aaaaaaaaaa..."
             scene babies_out
-            "The finale babies had come out."
+            "The final babies have come out."
             scene darkforest
             show m_surprise at s
             show m_blush at s
@@ -338,12 +338,12 @@ label group1: #pride+mental <50
             show m_shame at s
             show m_beaten1 at s
             d "That's it for today. Take your children with you and go home."
-            m "Yes sir [d]!"
+            m "Yes, sir [d]!"
             hide m_m
             show m_m_sexclench2 at s
             m "Come, kids!"
             m "Papa! Papa!"
-            d "Isn't it great [p]? Look at that. You just helped a happy family."
+            d "Isn't it great [p]? Look at that. You just helped foster a happy family."
             hide m_m_sexclench2
             show m_m_sexclench1 at s
             p "*F-..."
@@ -354,7 +354,7 @@ label group1: #pride+mental <50
             show m_shame at s
             show m_m_1 at s
             show m_beaten1 at s
-            "[p] is frightened by seing [d] move his foot up. [p]'s whole body got tighten until [d] softly tramples his face. Cum shoot out from [p]'s ass!"
+            "[p] is frightened at the sight of [d] raising his feet. [p]'s hole clenched tightly until [d] softly steps his face, which was when a torrent of cum shot out from his ass."
             hide m_m_1
             hide m_sperm
             hide m_blush
@@ -368,7 +368,7 @@ label group1: #pride+mental <50
             show m_m_sexopen at s
             show m_beaten1 at s
             p "Mmm...ngh..."
-            d "Slut! Enjoy being stepped on."
+            d "What a slut, enjoying being stepped on."
             hide m_m_sexopen
             hide m_sperm
             hide m_blush
@@ -377,25 +377,25 @@ label group1: #pride+mental <50
             hide m_close
             p "N-No...Ughh...mmm..."
             p "*sob...*sob..."
-            d "Prince, are you feeling bright to know you just helped someone with that worthless asshole?"
+            d "Prince, aren't you feeling proud to know that you've just helped someone with that otherwise worthless asshole of yours?"
             p "Mgh!...Ngh..."
             scene baby_foot_facefast
-            d "Huh?" 
-            "[d] starts to roughly steps on [p]'s face. His whole body got tighten by the pain."
+            d "Huh?"
+            "[d] starts to roughly step on [p]'s face. His whole body stiffens from the pain."
             d "Huh?"
             p "Y-Yes. Yes I am."
             scene baby_foot_facefaster
-            d "Answer formaly prince. Did you hear what those monsters call me?"
-            p "...Ngh...Mmm...H-hurt!"
+            d "Answer me fully prince. Did you hear what those monsters call me?"
+            p "...Ngh...Mmm...It h-hurts!"
             d "Huh?"
-            p "Y-Yes sir [d]. I'm feeling brighter for...for helping those monsters... bear their babies... w-with this...worthless asshole."
+            p "Y-Yes sir [d]. I'm feeling very proud for...for helping those monsters... bear their babies... w-with this...worthless asshole."
             p "P-Please stop! It hurts!...Ngh!"
-            d "Hurt? And your ass keeps on cumming from your ass? Masochist brat!"
-            p "No, i-it's not mine."
+            d "It hurts? And your yet you keep on cumming from your ass? What a masochistic little brat!"
+            p "No, i-it's not mine!"
             p "Urghh! Ahhh..."
-            p "Please [d], I beg you."
+            p "Please [d], I beg of you."
             scene baby_foot_face
-            d "Very good! You have started to know your position."
+            d "Very good! You have started to know your place."
             p "Ngh!"
             "[d] stops."
             scene darkforest
@@ -437,7 +437,7 @@ label group1: #pride+mental <50
             show m_shame at s
             show m_beaten1 at s
             scene baby_foot_nolick with vpunch
-            "[d] lifts [p]'s head up with his foot and lightly tramples [p]'s cock."
+            "[d] lifts [p]'s head up with his foot and lightly steps on [p]'s cock."
             p "!"
             p "Mhhh..."
             show m_hurt at s
@@ -457,21 +457,21 @@ label group1: #pride+mental <50
             show m_shame at s
             show m_beaten1 at s
             "[p] licks [d]'s foot."
-            d "You are quick to understand this time. I guess pain makes human smarter. I should do this more often to help you get less birdbrained."
+            d "You are quick to understand this time. I guess pain does make humans smarter. I should do this more often to help you get rid of your bird brain."
             hide m_m
             show m_m_sexclench1 at s
             p "Mhhh...Hhhh..."
-            d "What do you think [p]?"
+            d "What do you think, [p]?"
             scene baby_foot_lickfast
             p "Mgh...nhhh..."
-            "[p] still continues licking [d]'s foot." 
+            "[p] still continues licking [d]'s foot."
             p "M...n..."
             d "..."
             d "Did you forget how to speak, slave?"
             scene baby_foot_lickslow
             p "M...Ngh..."
             p "Mmm...h..."
-            d "I hope you have learned your lesson. I'm waiting to see you act more like a decent toilet."
+            d "I hope you have learned your lesson. I'm waiting to see you act more like a decent slave."
             scene baby_foot_lickslower
             show m_tired at s
             show m_sperm at s
@@ -479,7 +479,7 @@ label group1: #pride+mental <50
             show m_blush at s
             show m_shame at s
             show m_beaten1 at s
-            p "Ugh!...Mmmmm..." 
+            p "Ugh!...Mmmmm..."
             hide m_m_sexopen
             show m_m_clench2 at s
             p "...Mhh...ngh..."
@@ -503,11 +503,11 @@ label group1: #pride+mental <50
             $food -=15
             $clean -=10
             scene black with flash
-            "[p] passes out while licking [d]'s foot. Both his pride and psyche were crushed badly. His tears still comeout, even though he unconsious."
+            "[p] passes out while licking [d]'s foot. Both his pride and psyche were crushed badly. His tears were still flowing, even as he fell unconscious."
             "[d] let him rest for a day."
             $day +=2
             jump jumpsim
-    ############################################################################################################################################################################        
+    ############################################################################################################################################################################
         "Ask [p]":
             d "Why don't you ask our prince?"
             p "Mngh! Nph!"
@@ -521,7 +521,7 @@ label group1: #pride+mental <50
             p "Ahhh!...Ahhh!...Hhhh!..."
             hide m_m_scream
             show m_m_1 at s
-            m "Useless bitch! Do you want to bear our babies?"
+            m "Hey, you useless bitch! Do you want to bear our babies?"
             hide m_sperm
             hide m_m_sexclench1
             hide m_blush
@@ -536,7 +536,7 @@ label group1: #pride+mental <50
             p "Fuck you! No way in hell!"
             hide m_m_scream
             show m_m_sexclench1 at s
-            "The monsters pull [p]'s hair harder."
+            "The monsters pull on [p]'s hair harder."
             hide m_m_sexclench1
             hide m_m_1
             hide m_sperm
@@ -546,7 +546,7 @@ label group1: #pride+mental <50
             show m_hurt at s
             show m_shame at s
             show m_sperm at s
-            show m_m_1 at s 
+            show m_m_1 at s
             show m_blush at s
             show m_beaten1 at s
             p "Mrghhh!"
@@ -569,10 +569,10 @@ label group1: #pride+mental <50
             hide m_m_scream
             show m_m_1 at s
             "The monsters look at each other."
-            m "We've fucked him too much that his brain felt out."
+            m "We've fucked him too much, his brain fell out."
             p "Bastard!"
-            m "Shit! I cannot take it! I have to cum inside his warm tight holes!"
-            "The monsters lift [p] up and roughly ram in his mouth and ass."
+            m "Shit, I cannot take it anymore! I have to cum inside his warm, tight hole!"
+            "The monsters lift [p] up and roughly ram themselves into his mouth and ass."
             scene rein
             p "Mgh! Ngh!"
             m "Aaaaah..."
@@ -585,17 +585,17 @@ label group1: #pride+mental <50
             p "(Stop!)"
             scene rein_faster with hpunch
             p "NNGH! MGH!"
-            p "(Hurt! Their dicks are getting bigger!)"
+            p "(It hurts! Their dicks are getting bigger!)"
             m "I'm gonna come!"
             m "Me too!"
             scene rein_spermrein with vpunch
             p "M!!...H...NNN! M!"
-            p "(Shit! My throat and ass cannot stretch that much!)"
+            p "(Shit! My throat and ass can't stretch that much!)"
             "[p] struggles."
             scene baby_sperm
-            "The monsters violently throw [p] to the ground, pull his hair." with hpunch
+            "The monsters violently throw [p] to the ground, pulling on his hair." with hpunch
             p "Ngh!"
-            m "Do you wan to bear our babies?"
+            m "Do you want to bear our babies?"
             p "NO!"
             m "FUCK YOU!!"
             d "Calm down! All of you!"
@@ -611,18 +611,18 @@ label group1: #pride+mental <50
             p "Fuck you! Get your foot off of my face."
             d "Hpmph..."
             scene baby_foot_facefaster with hpunch
-            "[d] step on [p]'s face stronger."
+            "[d] steps on [p]'s face harder."
             p "Ugh!"
             scene baby_foot_face
-            d "Do you want to bear their babies or being fuck all day today?"
+            d "Do you want to bear their children, or be fucked all day today?"
             show m_close at s
             show m_sperm at s
             show m_m_1 at s
             show m_blush at s
             show m_beaten1 at s
             p "I rather die!"
-            hide m_blush 
-            hide m_beaten1 
+            hide m_blush
+            hide m_beaten1
             hide m_sperm
             show m_surprise at s
             show m_sperm at s
@@ -638,37 +638,37 @@ label group1: #pride+mental <50
             show m_blush at s
             show m_beaten1 at s
             d "Enjoy your fun, prince!"
-            hide m_sperm 
-            hide m_m 
+            hide m_sperm
+            hide m_m
             hide m_blush
-            hide m_beaten1 
+            hide m_beaten1
             show m_sperm at s
             show m_m_sexopen at s
             show m_blush at s
             show m_beaten1 at s
             p "!"
-            d "I hope your ass and mouth still stay the same after today."
+            d "I hope your ass and mouth will still stay the same after today."
             hide m_m_sexopen
             show m_m_1 at s
             show m_shame at s
             p "F-Fuck!"
-            hide m_sperm 
-            hide m_m_1 
+            hide m_sperm
+            hide m_m_1
             hide m_blush
             hide m_shame
-            hide m_beaten1 
+            hide m_beaten1
             show m_sperm at s
             show m_m_1 at s
             show m_blush at s
             show m_beaten1 at s
             show m_shame at s
             p "Stop!"
-            "[d] disappeared into the depth of the forest."
-            hide m_sperm 
-            hide m_m_1 
+            "[d] disappeared into the depths of the forest."
+            hide m_sperm
+            hide m_m_1
             hide m_blush
             hide m_shame
-            hide m_beaten1 
+            hide m_beaten1
             show m at s
             show m_sperm at s
             show m_m_sexclench1 at s
@@ -676,7 +676,7 @@ label group1: #pride+mental <50
             show m_beaten1 at s
             show m_shame at s
             scene rein with hpunch
-            m "Let's have some fun, you damn fucking meat!"
+            m "Let's have some fun, you piece of fuckmeat!"
             m "We will make you regret making us mad!"
             p "No! Stop!"
             p "Ngh! Mgh!"
@@ -687,9 +687,9 @@ label group1: #pride+mental <50
             scene rein_faster
             p "Ngh! M...Ngh..."
             p "Urgh! Mgh!"
-            "The monsters fuck [p] till night."
+            "The monsters fuck [p] until night rolls around."
             scene black with flash
-            "[d] lets [p] rest the next day. His dirtiness increase"
+            "[d] lets [p] rest the next day. His dirtiness increases."
             $group_nobaby =True
             $mental -=4
             $pride -=4
@@ -698,7 +698,7 @@ label group1: #pride+mental <50
             $day +=2
             $clean -=7
             jump jumpsim
-     #################################################################################################################################################################################       
+     #################################################################################################################################################################################
 label group2: #<30
     show m_tired at s
     show m_m at s
@@ -711,7 +711,7 @@ label group2: #<30
     show m at s
     show m_m at s
     show m_blush at s
-    "Knowing he's being watch, [p] looks back."
+    "Knowing he's being watched, [p] looks back."
     p "..."
     d "Having fun looking at the same place over and over again?"
     hide m_tired
@@ -721,7 +721,7 @@ label group2: #<30
     show m_m at s
     show m_blush at s
     p "..."
-    d "I thought you learnt your manners. Not answering me again."
+    d "I thought you learnt your manners. Yet now you're not answering me again."
     hide m_m
     hide m
     hide m_blush
@@ -729,7 +729,7 @@ label group2: #<30
     show m_m_clench at s
     show m_blush at s
     p "!"
-    "Two giant monsters come in his way. They are the same type as the two monsters who fucked him."
+    "Two giant monsters come his way. The same species as the two who ravaged him previously."
     hide m_m_clench
     show m_surprise at s
     show m_m_open1 at s
@@ -737,7 +737,7 @@ label group2: #<30
     show m_shame at s
     p "!"
     p "[d]!"
-    d "They just asked me yesterday to fuck you. Seems like you are really likable."
+    d "They just asked me yesterday if they could fuck you. Seems like you're really likable."
     hide m_blush
     hide m_shame
     hide m_surprise
@@ -748,7 +748,7 @@ label group2: #<30
     show m_m at s
     show m_blush at s
     show m_shame at s
-    "Pitchy releases [p]. [p] wants to run but his entire body become numb."
+    "Pitchy releases [p]. [p] wants to run, but his entire body betrays him, instead becoming numb from fear."
     hide m_blush
     hide m_shame
     hide m_m
@@ -759,7 +759,7 @@ label group2: #<30
     show m_shame at s
     d "What's that?"
     "[d] laughs."
-    d "Hahaha, [p], oh [p]. I can't believe it. You scare too much that you piss yourself. I'm a little jealous of those monsters now."
+    d "Hahaha, [p], oh [p]. I can't believe it. You're so scared that you've managed to piss yourself. I'm a little jealous of those monsters now."
     hide m_m_sexclench1
     show m_m_open1 at s
     p "N-No, please [d]."
@@ -768,7 +768,7 @@ label group2: #<30
     show m_m_open1 at s
     show m_blush at s
     show m_shame at s
-    "[d] pushes [p] to the monsters."
+    "[d] pushes [p] towards the monsters."
     scene darkforest
     show m_hurt
     show m_m_sexclench2
@@ -803,7 +803,7 @@ label group2: #<30
     show m_cockup
     show m_beaten1
     p "..."
-    "[p] crawls back as the giant monsters come up to him. He feels anxious."
+    "[p] stumbles back as the giant monsters come up to him. He feels anxious."
     scene darkforest
     show m_hurt
     show m_blush
@@ -811,7 +811,7 @@ label group2: #<30
     show m_cockup
     show m_beaten1
     show reinhand
-    "A monster grasps [p]'s chest and lifts him up" with vpunch
+    "A monster grasps [p]'s chest and lifts him up." with vpunch
     scene sky
     show m_hurt
     show m_blush
@@ -819,10 +819,10 @@ label group2: #<30
     show m_cockup
     show m_beaten1
     show reinhand
-    p "Ngh! *cough" with hpunch
+    p "Ngh! *cough*" with hpunch
     hide m_m_sexopen
     show m_m_sexclench3
-    "[p] kicks and scratches the monsters. It squeezes him tighter." with vpunch
+    "[p] kicks and scratches at the monsters. It only squeezes him tighter." with vpunch
     hide reinhand
     show reinred
     show reinhand
@@ -830,15 +830,15 @@ label group2: #<30
     p "S-Shit!"
     m "Bitch!"
     scene rein with hpunch
-    "The monsters start to put their dick in."
+    "The monsters start to thrust their dicks in."
     p "Mrgh...Mrgh..."
     p "M...Nrgh..."
     #scene
     m "Stop scratching me you whore!"
     p "Urghh...Mrphh..."
-    m "Damn! it's bleeding."
+    m "Damn! he's bleeding."
     scene rein_fast
-    "The monsters go faster."
+    "The monsters speed up."
     p "Mgh!...Ng..."
     "[p] feels dizzy"
     p "Mmmph...Mpgh..."
@@ -847,17 +847,17 @@ label group2: #<30
     scene rein_faster
     p "Ngh! M...H...Urgh!"
     m "Too good!"
-    m "I think I'm got addicted."
+    m "I think I'm going to get addicted."
     p "Ngh!...H...Nrgh!"
     p "(No! Stop!)"
     scene rein_egg
     " The monster shoots its eggs in [p]'s ass."
     p "Mrgh....Ngh..."
     p "(Hurts! It hurts so much! Not again!)"
-    "[p] looks at [d] while he is drinking water. [d] looks straight at [p]'s eyes and smirks."
+    "[p] looks at [d] while he is sipping water. [d] looks straight at [p]'s eyes and smirks."
     p "Urgh! Mrpgh!"
     p "(Fuck that bastard!)"
-    "The monsters toss [p] to the ground and pull his hair." 
+    "The monsters toss [p] to the ground and pull on his hair."
     show m_hurt at s
     show m_m_scream at s
     show m_blush at s
@@ -869,9 +869,9 @@ label group2: #<30
     scene baby_sperm_eggfast with hpunch
     m "TIGHTER, BITCH!"
     hide m_m_sexclench3
-    hide m_hurt 
-    hide m_blush 
-    hide m_shame 
+    hide m_hurt
+    hide m_blush
+    hide m_shame
     hide m_beaten1
     show m_close at s
     show m_blush at s
@@ -881,9 +881,9 @@ label group2: #<30
     p "S-Shit!"
     hide m_close
     hide m_m_sexopen
-    hide m_hurt 
-    hide m_blush 
-    hide m_shame 
+    hide m_hurt
+    hide m_blush
+    hide m_shame
     hide m_beaten1
     show m_surprise at s
     show m_m_sexclench1 at s
@@ -893,12 +893,12 @@ label group2: #<30
     p "Urgh!"
     m "TIGHTER!!"
     scene baby_sperm_eggfaster with vpunch
-    "A monster presses his head harder."
+    "The monster squeezes his head harder."
     hide m_surprise
     hide m_m_sexclench3
-    hide m_hurt 
-    hide m_blush 
-    hide m_shame 
+    hide m_hurt
+    hide m_blush
+    hide m_shame
     hide m_beaten1
     show m_close at s
     show m_m_sexclench3 at s
@@ -906,15 +906,15 @@ label group2: #<30
     show m_shame at s
     show m_beaten1 at s
     m "Worthless pieces of shit!"
-    hide m_m_sexclench3 
+    hide m_m_sexclench3
     show m_m_sexopen at s
     p "Ngh...Nghh...h...mhhh..."
     "[p] tries to breathe."
     hide m_surprise
     hide m_m_sexopen
     hide m_close
-    hide m_blush 
-    hide m_shame 
+    hide m_blush
+    hide m_shame
     hide m_beaten1
     show m_hurt at s
     show m_blush at s
@@ -932,14 +932,14 @@ label group2: #<30
     p "Aaaa...aaahhh...hhh...nngh...mrph..."
     p "ARGHHH! ARGGGHHH!"
     scene baby_out with vpunch
-    "A monster presses his head hard."
+    "The monster clenches its fingers around his head."
     p "Ngh...Nghh...h...mhhh..."
-    "[p] tries to breathe."
-    m "Stop whinning you worthless trash. You should be thankful sir [d] not kill you but let you become our breeding thing."
+    "[p] keeps trying to breathe."
+    m "Stop whinning you worthless trash. You should be thankful sir [d] didn't kill you, instead letting you become our breeding bitch."
     scene baby_outfast
     p "Aaaa...aaahhh...hhh...nngh...mrph..."
     p "Aaahhh...aaaa....mrph...F-Fuck...Ngh...mphhh..."
-    "Monsters after monsters get out of [p]'s asshole."
+    "Monster after monster get out of [p]'s asshole."
     p "Aaaa....ngh....hh...aaa..."
     p "*sob *sob"
     m "Mama! Mama!"
@@ -953,7 +953,7 @@ label group2: #<30
     show m_m_sexopen at s
     p "....Aaaa...."
     scene babies_out
-    "The baby monsters that just got out climb to [p]'s body and suck his ear, mouth, neck, armpit, balls and cock while the baby monsters inside [p] didn't have enough space that they fight each other to get out."
+    "The baby monsters which had just been birthed climb onto [p]'s body, beginning to suck on his ear, mouth, neck, armpit, balls and cock. All the while, the baby monsters inside [p] begin fighting each other for space as they attempt to get out."
     m "Mama! Mama!"
     show m_hurt at s
     show m_blush at s
@@ -966,11 +966,11 @@ label group2: #<30
     "Two baby monsters fight each other to get out of [p]'s tight ass."
     hide m_m_sexclench3
     show m_m_sexopen at s
-    p "Haa...haaa...aaaaa...ngh...S-hit...Stop! It hurts. I gonna die...Stop...I'm goona die..."
+    p "Haa...haaa...aaaaa...ngh...S-hit...Stop! It hurts. I gonna die...Stop...I'm gonna die..."
     d "Hmmphhh..."
-    hide m_hurt 
-    hide m_blush 
-    hide m_shame 
+    hide m_hurt
+    hide m_blush
+    hide m_shame
     hide m_beaten1
     hide m_m_sexopen
     show m_tired at s
@@ -979,9 +979,9 @@ label group2: #<30
     show m_beaten1 at s
     show m_m_open1 at s
     "[d] comes close to [p]."
-    hide m_tired 
-    hide m_blush 
-    hide m_shame 
+    hide m_tired
+    hide m_blush
+    hide m_shame
     hide m_beaten1
     hide m_m_open1
     show m_close at s
@@ -989,8 +989,8 @@ label group2: #<30
     show m_shame at s
     show m_beaten1 at s
     show m_m_clench2 at s
-    d "That look suits you prince. And sorry to disappoint you, you won't die by this."
-    hide m_m_clench2 
+    d "That look suits you, prince. And sorry to disappoint you, you're not going to die from this."
+    hide m_m_clench2
     show m_m_scream at s
     p "AAA....ngh....HHH...aaa..AAAAHHHHH..."
     scene babies_outfast
@@ -999,14 +999,14 @@ label group2: #<30
     show m_shame at s
     show m_beaten1 at s
     show m_m_sexopen at s
-    p "Please help me [d]... Make them stop...I-I've already stopped fighting back and listened to your orders like a slave. I do whatever you demand. Please [d]."
+    p "Please help me [d]... Make them stop...I-I've already stopped fighting back and listened to your orders like a good slave. I did whatever you demand. Please [d]."
     hide m_m_sexopen
     show m_m_clench2 at s
-    d "Does your brain still function? I've already told you once the eggs goes in, it already late."
-    d "Listen to me like a slave, hmphh, what a joke!"
-    hide m_hurt 
-    hide m_blush 
-    hide m_shame 
+    d "Does your brain even work any more? I've already told you that once the eggs go in, it's already too late."
+    d "And listening to me like a good slave? Hmphh, what a joke!"
+    hide m_hurt
+    hide m_blush
+    hide m_shame
     hide m_beaten1
     hide m_m_open1
     show m_tired at s
@@ -1015,10 +1015,10 @@ label group2: #<30
     show m_beaten1 at s
     show m_m_sexclench1 at s
     p "..."
-    d "Not only you still protest by not answering, you also dare to clench your teeth and fists when talking to me. [p], the only things I allow you to get hard and clench are your cock and holes."
-    hide m_tired 
-    hide m_blush 
-    hide m_shame 
+    d "Not only you do you still protest by not answering, you dare clench your teeth and fists when talking to me. [p], the only things which I allow you to stiffen and clench are your cock and holes."
+    hide m_tired
+    hide m_blush
+    hide m_shame
     hide m_beaten1
     hide m_m_sexclench1
     show m_surprise at s
@@ -1034,10 +1034,10 @@ label group2: #<30
     show m_beaten1 at s
     show m_m_scream at s
     p "S-Shit...Ngh...Nghh...h...mrhh...S-stop...Help me [d]...Please take them out! Kill them!...It's too painful!"
-    m "Bastard! What did you just said?"
+    m "Bastard! What did you just say?"
     hide m_hurt
-    hide m_blush 
-    hide m_shame 
+    hide m_blush
+    hide m_shame
     hide m_beaten1
     hide m_m_scream
     show m_surprise at s
@@ -1048,13 +1048,13 @@ label group2: #<30
     p "!"
     scene babies_outfast
     p "Argh...Argh...Urgh....Mphhhh..."
-    p "*sob *sob"
+    p "*sob* *sob*"
     p "Aaaa....ngh....hh...aaa...aaaaaaa..."
     scene babies_outfaster
-    m "Shut up, you useless bitch! You scream is destroying my ears!"
+    m "Shut up, you useless bitch! You scream is hurting my ears!"
     p "Urgh...ahhh...Mrph.....Help...aaahhh...aaaaaaaaaa..."
     scene babies_out
-    "The finale babies had come out."
+    "The final babies have emerged."
     p "M...mm...ngh..."
     p "Ahhhh...haaaa..."
     scene darkforest
@@ -1068,7 +1068,7 @@ label group2: #<30
     m "Mama! Mama!"
     hide m_m_sexopen
     show m_m_scream at s
-    p "F-fuck! Get out!"
+    p "F-fuck! Pull out!"
     hide m_m_open1
     hide m_sperm
     hide m_blush
@@ -1080,7 +1080,7 @@ label group2: #<30
     show m_blush at s
     show m_shame at s
     show m_beaten1 at s
-    m "We still have a lot of eggs. Why should we get out?"
+    m "We still have a lot of eggs. Why should we pull out?"
     hide m_m_open1
     hide m_sperm
     hide m_blush
@@ -1097,7 +1097,7 @@ label group2: #<30
     show m_m_sexopen at s
     p "Please stop [d]! Tell them to go away! Anymore than that and I'll... Please have some mercy."
     d "That's it for today. Take your children with you and go home."
-    m "Yes sir [d]!"
+    m "Yes, sir [d]!"
     hide m_m_sexopen
     show m_m_sexclench2 at s
     m "Come, kids!"
@@ -1116,13 +1116,13 @@ label group2: #<30
     "The monsters go away. [p] tries to breathe."
     p "Ahhhh...Haaaa..."
     scene baby_foot_face with hpunch
-    d "Why are you relax so soon [p]? I haven't done anything to you yet. It's my turn now."
-    p "H-Hurt [d]! It hurts!"
+    d "Why are you relaxing so soon, [p]? I haven't done anything to you yet. It's my turn now."
+    p "H-Hurts [d]! It hurts!"
     p "Please! No more [d]! I-I can't even stand up. My ass is a mess now. Y-You wouldn't want it."
     d "It amuses me to see you get down from your high horse to beg me while trembling in pain."
     p "P-Please stop [d]. I'm nowhere near a high horse...\nI'm already kneeling under your feet, licking them..."
     p "There's... no need to bring me down lower."
-    d "Well said. I have a feeling each time being fuck by these monsters and bear their children, you become smarter. Don't you think so too?"
+    d "Well said. I have a feeling each time you're fucked by these monsters and bear their children, you become smarter. Don't you think so too?"
     p "Ngh..."
     scene baby_foot_facefast
     p "N!...H!...Please don't...My ass and stomach..."
@@ -1131,7 +1131,7 @@ label group2: #<30
     scene baby_foot_facefaster
     p "Ngh! Mgh! H! P-Please s-stop!"
     d "Huh?"
-    p "Y-yes. I-I think so too."
+    p "Y-yes. I-I agree with you."
     p "Ngh!...M..."
     p "Each time you let those monsters fuck me, I...get less birdbrained."
     scene baby_foot_face
@@ -1154,7 +1154,7 @@ label group2: #<30
     show m_shame at s
     show m_beaten1 at s
     show m_m_sexclench1 at s
-    "[d] lifts [p]'s head up with his foot and lightly tramples [p]'s cock."
+    "[d] lifts [p]'s head up with his foot and lightly tramples on [p]'s cock."
     hide m_m_sexclench1
     show m_m_sexopen at s
     p "Hmm...ahhhh..."
@@ -1166,10 +1166,10 @@ label group2: #<30
     p "Ngh! Y-yes! Please stop [d]. Ngh!... Please...don't call me like that... I'm not a prince. Not anymore..."
     hide m_m_sexopen
     show m_m2 at s
-    d "Hahaha, we all know that but why so sudden? Don't tell me you feel so disgraceful that you finally decide to drop your title?"
-    hide m_hurt 
-    hide m_blush 
-    hide m_shame 
+    d "Hahaha, we all know that but why so sudden? Don't tell me you feel so disgraced that you've finally decided to drop your title?"
+    hide m_hurt
+    hide m_blush
+    hide m_shame
     hide m_beaten1
     hide m_m_sexclench1
     show m_tired at s
@@ -1179,9 +1179,9 @@ label group2: #<30
     show m_m at s
     p "..."
     d "What about the throne?"
-    hide m_tired 
-    hide m_blush 
-    hide m_shame 
+    hide m_tired
+    hide m_blush
+    hide m_shame
     hide m_beaten1
     hide m_m
     show m_surprise at s
@@ -1207,19 +1207,19 @@ label group2: #<30
     d "Oh well. How does my foot taste [p]? Does it reach a prince's standards?"
     hide m_m2
     show m_m_sexopen at s
-    p "...Y-Yes, [d]. It...is."
+    p "...Y-Yes, [d]. It...does."
     hide m_m_sexopen
     show m_m2 at s
     d "Just that?"
     hide m_m2
     show m_m_open1 at s
-    p "It-It taste...fantastic. The...rough and...salty texture of it is...is delicious."
+    p "It-It tastes...fantastic. The...rough and...salty texture of it is...is delicious."
     hide m_m_sexopen
     show m_m_clench at s
-    d "Salty? It must be because I just step on some monsters' piss."
+    d "Salty? It must be, because I just stepped on some monsters' piss."
     hide m_m_clench
-    hide m_blush 
-    hide m_shame 
+    hide m_blush
+    hide m_shame
     hide m_beaten1
     show m_surprise at s
     show m_blush at s
@@ -1228,21 +1228,21 @@ label group2: #<30
     show m_m at s
     p "!"
     hide m_surprise
-    hide m_blush 
-    hide m_shame 
+    hide m_blush
+    hide m_shame
     hide m_beaten1
-    hide m_m 
+    hide m_m
     show m_tired at s
     show m_blush at s
     show m_shame at s
     show m_beaten1 at s
     show m_m at s
-    d "Faster prince, lick it passionately like last time."
+    d "Faster prince, lick it passionately like you did the last time."
     hide m_tired
-    hide m_blush 
-    hide m_shame 
+    hide m_blush
+    hide m_shame
     hide m_beaten1
-    hide m_m 
+    hide m_m
     hide m_m_sexopen
     show m_close at s
     show m_blush at s
@@ -1252,7 +1252,7 @@ label group2: #<30
     scene baby_foot_lickfast
     p "Mmm...ngh..."
     p "Ngh....hhh..."
-    d "I stepped on some shits too. Maybe that's where the salty texture come from? I clean it with dirt though."
+    d "Come to think of it, I stepped on some shit too. Maybe that's where the salty texture comes from? I did clean it with dirt though."
     scene baby_foot_lick
     show m_surprise at s
     show m_blush at s
@@ -1268,9 +1268,9 @@ label group2: #<30
     show m_m at s
     d "Hurry up prince! Why are you slowing down?"
     hide m_tired
-    hide m_blush 
-    hide m_beaten1 
-    hide m_m 
+    hide m_blush
+    hide m_beaten1
+    hide m_m
     hide m_shame
     show m_close at s
     show m_blush at s
@@ -1305,10 +1305,10 @@ label group2: #<30
     show m_m at s
     d "You are too slow!"
     p "..."
-    hide m_tired 
-    hide m_blush 
-    hide m_shame 
-    hide m_beaten1 
+    hide m_tired
+    hide m_blush
+    hide m_shame
+    hide m_beaten1
     show m_m
     show m_hurt at s
     show m_blush at s
@@ -1318,36 +1318,36 @@ label group2: #<30
     p "Agh!"
     p "(My entire body hurts.)"
     scene darkforest
-    show m_close 
-    show m_blush 
-    show m_shame 
-    show m_beaten1 
-    show m_m 
+    show m_close
+    show m_blush
+    show m_shame
+    show m_beaten1
+    show m_m
     show m_cockup
     "[p] closes his eyes."
-    hide m_blush 
-    hide m_shame 
-    hide m_beaten1 
-    hide m_m 
+    hide m_blush
+    hide m_shame
+    hide m_beaten1
+    hide m_m
     hide m_cockup
-    show m_surprise 
-    show m_blush 
-    show m_shame 
-    show m_beaten1 
-    show m_m 
+    show m_surprise
+    show m_blush
+    show m_shame
+    show m_beaten1
+    show m_m
     show m_cockup
     d "Pitchy! Tie him up!"
-    "The vines wrap [p]."
-    hide m_surprise 
-    hide m_blush 
-    hide m_shame 
-    hide m_beaten1 
-    hide m_m 
+    "The vines wrap around [p]."
+    hide m_surprise
+    hide m_blush
+    hide m_shame
+    hide m_beaten1
+    hide m_m
     hide m_cockup
     show m_hurt
-    show m_blush 
-    show m_shame 
-    show m_beaten1 
+    show m_blush
+    show m_shame
+    show m_beaten1
     show m_m_sexopen
     show m_cockup
     p "S-Shit!"
@@ -1357,23 +1357,23 @@ label group2: #<30
     hide m_shame
     hide m_beaten1
     hide m_m
-    show m_tired 
-    show m_blush 
-    show m_shame 
+    show m_tired
+    show m_blush
+    show m_shame
     show m_beaten1
     show m_m_open1
     show m_cockup
-    p "[d]... I...already cannot even twist a muscle. The vines...hurt..."
-    d "Complaint?"
+    p "[d]... I...can't even move a muscle. The vines...hurt..."
+    d "Complaining, are you?"
     hide m_cockup
     hide m_tired
     hide m_blush
     hide m_shame
     hide m_beaten1
     hide m_m_open1
-    show m_surprise 
-    show m_blush 
-    show m_shame 
+    show m_surprise
+    show m_blush
+    show m_shame
     show m_beaten1
     show m_m
     show m_cockup
@@ -1385,8 +1385,8 @@ label group2: #<30
     hide m_beaten1
     hide m_m
     show m_tired
-    show m_blush 
-    show m_shame 
+    show m_blush
+    show m_shame
     show m_beaten1
     show m_m_open1
     show m_cockup
@@ -1398,8 +1398,8 @@ label group2: #<30
     hide m_m_open1
     hide m_cockup
     show m_close
-    show m_blush 
-    show m_shame 
+    show m_blush
+    show m_shame
     show m_beaten1
     show m_m_sexclench1
     show m_cockup
@@ -1407,7 +1407,7 @@ label group2: #<30
     p "..."
     "[p]'s pride and psyche decrease badly. His dirtiness increases."
     scene black with dissolve
-    "[p] rest for the rest of the day."
+    "[p] rests for the rest of the day."
     $mental -=10
     $pride -=10
     $day -=1
@@ -1415,7 +1415,7 @@ label group2: #<30
     $food -=5
     $clean -=10
     jump jumpsim
-  #####################################################################################################################################################################33  
+  #####################################################################################################################################################################33
 label group2_nobaby:
     show m_tired at s
     show m_m at s
@@ -1428,7 +1428,7 @@ label group2_nobaby:
     show m at s
     show m_m at s
     show m_blush at s
-    "Knowing he's being watch, [p] looks back."
+    "Knowing he's being watched, [p] looks back."
     p "..."
     d "Having fun looking at the same place over and over again?"
     hide m_tired
@@ -1438,7 +1438,7 @@ label group2_nobaby:
     show m_m at s
     show m_blush at s
     p "..."
-    d "I thought you learnt your manners. Not answering me again."
+    d "I thought you learnt your manners. Yet now you're not answering me again."
     hide m_m
     hide m
     hide m_blush
@@ -1446,7 +1446,7 @@ label group2_nobaby:
     show m_m_clench at s
     show m_blush at s
     p "!"
-    "Two giant monsters come in his way. They are the same type as the two monsters who fucked him."
+    "Two giant monsters come his way. The same species as the two who ravaged him previously."
     hide m_m_clench
     show m_surprise at s
     show m_m_open1 at s
@@ -1454,7 +1454,7 @@ label group2_nobaby:
     show m_shame at s
     p "!"
     p "[d]!"
-    d "They just asked me yesterday to fuck you. Seems like you are really likable."
+    d "They just asked me yesterday if they could fuck you. Seems like you're really likable."
     hide m_blush
     hide m_shame
     hide m_surprise
@@ -1465,7 +1465,7 @@ label group2_nobaby:
     show m_m at s
     show m_blush at s
     show m_shame at s
-    "Pitchy releases [p]. [p] wants to run but his entire body become numb."
+    "Pitchy releases [p]. [p] wants to run, but his entire body betrays him, instead becoming numb from fear."
     hide m_blush
     hide m_shame
     hide m_m
@@ -1476,7 +1476,7 @@ label group2_nobaby:
     show m_shame at s
     d "What's that?"
     "[d] laughs."
-    d "Hahaha, [p], oh [p]. I can't believe it. You scare too much that you piss yourself. I'm a little jealous of those monsters now."
+    d "Hahaha, [p], oh [p]. I can't believe it. You're so scared that you've managed to piss yourself. I'm a little jealous of those monsters now."
     hide m_m_sexclench1
     show m_m_open1 at s
     p "N-No, please [d]."
@@ -1485,7 +1485,7 @@ label group2_nobaby:
     show m_m_open1 at s
     show m_blush at s
     show m_shame at s
-    "[d] pushes [p] to the monsters." with hpunch
+    "[d] pushes [p] towards the monsters."
     scene darkforest
     show m_hurt
     show m_m_sexclench2
@@ -1520,7 +1520,7 @@ label group2_nobaby:
     show m_cockup
     show m_beaten1
     p "..."
-    "[p] crawls back as the giant monsters come up to him. He feels anxious."
+    "[p] stumbles back as the giant monsters come up to him. He feels anxious."
     scene darkforest
     show m_hurt
     show m_blush
@@ -1528,7 +1528,7 @@ label group2_nobaby:
     show m_cockup
     show m_beaten1
     show reinhand
-    "A monster grasps [p]'s chest and lifts him up" with vpunch
+    "A monster grasps [p]'s chest and lifts him up." with vpunch
     scene sky
     show m_hurt
     show m_blush
@@ -1536,25 +1536,25 @@ label group2_nobaby:
     show m_cockup
     show m_beaten1
     show reinhand
-    p "Ngh! *cough"
+    p "Ngh! *cough*" with hpunch
     hide m_m_sexopen
     show m_m_sexclench3
-    "[p] kicks and scratches the monsters. It squeezes him tighter." with hpunch
+    "[p] kicks and scratches at the monsters. It only squeezes him tighter." with vpunch
     hide reinhand
     show reinred
     show reinhand
     p "Ngh! H!"
     p "S-Shit!"
     m "Bitch!"
-    scene rein with vpunch
-    "The monsters start to put their dick in."
+    scene rein with hpunch
+    "The monsters start to thrust their dicks in."
     p "Mrgh...Mrgh..."
     p "M...Nrgh..."
     m "Stop scratching me you whore!"
     p "Urghh...Mrphh..."
-    m "Damn! it's bleeding."
+    m "Damn! he's bleeding."
     scene rein_fast
-    "The monsters go faster."
+    "The monsters speed up."
     p "Mgh!...Ng..."
     "[p] feels dizzy"
     p "Mmmph...Mpgh..."
@@ -1563,17 +1563,17 @@ label group2_nobaby:
     scene rein_faster
     p "Ngh! M...H...Urgh!"
     m "Too good!"
-    m "I think I'm got addicted."
+    m "I think I'm going to get addicted."
     p "Ngh!...H...Nrgh!"
     p "(No! Stop!)"
     scene rein_spermrein
-    " The monsters shoot their cums in [p]'s holes."
+    " The monsters shoot their loads in [p]'s holes."
     p "Mrgh....Ngh..."
     p "(Hurts! It hurts so much! Not again!)"
-    "[p] looks at [d] while he is drinking water. [d] looks straight at [p]'s eyes and smirks."
+    "[p] looks at [d] while he is sipping water. [d] looks straight at [p]'s eyes and smirks."
     p "Urgh! Mrpgh!"
     p "(Fuck that bastard!)"
-    "The monsters toss [p] to the ground and pull his hair." 
+    "The monsters toss [p] to the ground and pull his hair."
     scene baby_sperm with hpunch
     m "Scum! Keep on scratching me!"
     p "!"
@@ -1581,12 +1581,12 @@ label group2_nobaby:
     p "Argh...Argh...Urgh....Mphhhh..."
     p "*sob *sob"
     p "Aaaa....ngh....hh...aaa...aaaaaaa..."
-    m "Shut up, you useless bitch! You scream is destroying my ears!"
-    p "Urgh...ahhh...Mrph.....Help...aaahhh...aaaaaaaaaa..." 
+    m "Shut up, you useless bitch! You scream is hurting my ears!"
+    p "Urgh...ahhh...Mrph.....Help...aaahhh...aaaaaaaaaa..."
     p "M...mm...ngh..."
     p "Ahhhh...haaaa..."
-    m "Have you calm down yet?"
-    m "NO! I wish I can rip off all his limbs and hair. SHIT!!"
+    m "Have you calmed down yet?"
+    m "NO! I wish I could rip off all his limbs and hair. SHIT!!"
     scene baby_spermfast with hpunch
     p "ARGHHH!! ARGHHHHHH!"
     p "STOP!!"
@@ -1595,7 +1595,7 @@ label group2_nobaby:
     p "HELP ME! Help me [d]![d]!"
     "[d] comes. The monsters step back."
     scene baby_foot_face with hpunch
-    d "Interesting! The prince is calling this monster for help!"
+    d "How interesting! Looks like the prince is calling a monster for help!"
     p "Urgh! Ngh!"
     d "It amuses me to see you get down from your high horse to beg me while trembling in pain."
     p "N-No, you are wrong. I'm..."
@@ -1603,7 +1603,7 @@ label group2_nobaby:
     p "No, that's not it...I...I'm nowhere near a high horse..."
     d "Huh?"
     p "I'm already kneeling under your feet, licking them..."
-    p "I-I'm not a prince also. Not anymore. Please don't call me that."
+    p "I-I'm not a prince either. Not anymore. Please don't call me that."
     d "Interesting! The disgraced prince doesn't want to be called prince anymore. What about the throne, future king?"
     p "...I-I..."
     p "Ngh..."
@@ -1626,7 +1626,7 @@ label group2_nobaby:
     show m_shame at s
     show m_beaten1 at s
     show m_m_sexclench1 at s
-    "[d] lets go of [p]'s face."
+    "[d] lets go of [p]'s head."
     hide m_m_sexclench1
     show m_m_sexopen at s
     p "Ahhh...haaa...."
@@ -1646,7 +1646,7 @@ label group2_nobaby:
     p "..."
     hide m_m
     show m_m_sexopen at s
-    d "If you let me wait any longer, I'll call those monsters back and let them fuck your brain out again."
+    d "If you let me wait any longer, I'll call those monsters back and let them fuck your brains out again."
     hide m_m_sexopen
     show m_m at s
     scene baby_foot_lick
@@ -1663,7 +1663,7 @@ label group2_nobaby:
     d "Oh well. How does my foot taste [p]? Does it reach a prince's standards?"
     hide m_m2
     show m_m_sexopen at s
-    p "...Y-Yes, [d]. It...is."
+    p "...Y-Yes, [d]. It...does."
     hide m_m_sexopen
     show m_m2 at s
     d "Just that?"
@@ -1672,10 +1672,10 @@ label group2_nobaby:
     p "It-It taste...fantastic. The...rough and...salty texture of it is...is delicious."
     hide m_m_sexopen
     show m_m_clench at s
-    d "Salty? It must be because I just step on some monsters' piss."
+    d "Salty? It must be because I've just stepped on some monsters' piss."
     hide m_m_clench
-    hide m_blush 
-    hide m_shame 
+    hide m_blush
+    hide m_shame
     hide m_beaten1
     show m_surprise at s
     show m_blush at s
@@ -1684,21 +1684,21 @@ label group2_nobaby:
     show m_m at s
     p "!"
     hide m_surprise
-    hide m_blush 
-    hide m_shame 
+    hide m_blush
+    hide m_shame
     hide m_beaten1
-    hide m_m 
+    hide m_m
     show m_tired at s
     show m_blush at s
     show m_shame at s
     show m_beaten1 at s
     show m_m at s
-    d "Faster prince, lick it passionately like last time."
+    d "Faster prince, lick it passionately like you did last time."
     hide m_tired
-    hide m_blush 
-    hide m_shame 
+    hide m_blush
+    hide m_shame
     hide m_beaten1
-    hide m_m 
+    hide m_m
     hide m_m_sexopen
     show m_close at s
     show m_blush at s
@@ -1708,7 +1708,7 @@ label group2_nobaby:
     scene baby_foot_lickfast
     p "Mmm...ngh..."
     p "Ngh....hhh..."
-    d "I stepped on some shits too. Maybe that's where the salty texture come from? I clean it with dirt though."
+    d "I stepped on some shit too. Maybe that's where the salty texture came from? I did clean it with dirt though."
     scene baby_foot_lick
     show m_surprise at s
     show m_blush at s
@@ -1724,9 +1724,9 @@ label group2_nobaby:
     show m_m at s
     d "Hurry up prince! Why are you slowing down?"
     hide m_tired
-    hide m_blush 
-    hide m_beaten1 
-    hide m_m 
+    hide m_blush
+    hide m_beaten1
+    hide m_m
     hide m_shame
     show m_close at s
     show m_blush at s
@@ -1761,10 +1761,10 @@ label group2_nobaby:
     show m_m at s
     d "You are too slow!"
     p "..."
-    hide m_tired 
-    hide m_blush 
-    hide m_shame 
-    hide m_beaten1 
+    hide m_tired
+    hide m_blush
+    hide m_shame
+    hide m_beaten1
     show m_m
     show m_hurt at s
     show m_blush at s
@@ -1774,36 +1774,36 @@ label group2_nobaby:
     p "Agh!"
     p "(My entire body hurts.)"
     scene darkforest
-    show m_close 
-    show m_blush 
-    show m_shame 
-    show m_beaten1 
-    show m_m 
+    show m_close
+    show m_blush
+    show m_shame
+    show m_beaten1
+    show m_m
     show m_cockup
     "[p] closes his eyes."
-    hide m_blush 
-    hide m_shame 
-    hide m_beaten1 
-    hide m_m 
+    hide m_blush
+    hide m_shame
+    hide m_beaten1
+    hide m_m
     hide m_cockup
-    show m_surprise 
-    show m_blush 
-    show m_shame 
-    show m_beaten1 
-    show m_m 
+    show m_surprise
+    show m_blush
+    show m_shame
+    show m_beaten1
+    show m_m
     show m_cockup
     d "Pitchy! Tie him up!"
     "The vines wrap [p]."
-    hide m_surprise 
-    hide m_blush 
-    hide m_shame 
-    hide m_beaten1 
-    hide m_m 
+    hide m_surprise
+    hide m_blush
+    hide m_shame
+    hide m_beaten1
+    hide m_m
     hide m_cockup
     show m_hurt
-    show m_blush 
-    show m_shame 
-    show m_beaten1 
+    show m_blush
+    show m_shame
+    show m_beaten1
     show m_m_sexopen
     show m_cockup
     p "S-Shit!"
@@ -1813,23 +1813,23 @@ label group2_nobaby:
     hide m_shame
     hide m_beaten1
     hide m_m
-    show m_tired 
-    show m_blush 
-    show m_shame 
+    show m_tired
+    show m_blush
+    show m_shame
     show m_beaten1
     show m_m_open1
     show m_cockup
-    p "[d]... I...already cannot even twist a muscle. The vines...hurt..."
-    d "Complaint?"
+    p "[d]... I...can't even move a muscle. The vines...hurt..."
+    d "Complaining?"
     hide m_cockup
     hide m_tired
     hide m_blush
     hide m_shame
     hide m_beaten1
     hide m_m_open1
-    show m_surprise 
-    show m_blush 
-    show m_shame 
+    show m_surprise
+    show m_blush
+    show m_shame
     show m_beaten1
     show m_m
     show m_cockup
@@ -1841,8 +1841,8 @@ label group2_nobaby:
     hide m_beaten1
     hide m_m
     show m_tired
-    show m_blush 
-    show m_shame 
+    show m_blush
+    show m_shame
     show m_beaten1
     show m_m_open1
     show m_cockup
@@ -1854,8 +1854,8 @@ label group2_nobaby:
     hide m_m_open1
     hide m_cockup
     show m_close
-    show m_blush 
-    show m_shame 
+    show m_blush
+    show m_shame
     show m_beaten1
     show m_m_sexclench1
     show m_cockup
@@ -1863,7 +1863,7 @@ label group2_nobaby:
     p "..."
     "[p]'s pride and psyche decrease badly. His dirtiness increases."
     scene black with dissolve
-    "[p] rest for the rest of the day."
+    "[p] rests for the rest of the day."
     $mental -=10
     $pride -=10
     $day -=1
@@ -1871,4 +1871,3 @@ label group2_nobaby:
     $food -=5
     $clean-=7
     jump jumpsim
-    

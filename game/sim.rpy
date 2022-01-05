@@ -9,8 +9,8 @@ screen tie:
 label sim:
     $ showday = True
     show tie with fade
-    call screen tie  
-    
+    call screen tie
+
 label simbutton:
     scene tie_looka
     show screen day
@@ -38,11 +38,11 @@ label simbutton:
                                 if mental<=50 and pride<=50 and water>0:
                                     jump water_obe
                                 elif water >=50:
-                                    jump water_20      
+                                    jump water_20
                                 elif 50>water>=40:
-                                    jump water_50       
+                                    jump water_50
                                 elif 40>water>=30:
-                                        jump water_80       
+                                        jump water_80
                                 else:
                                     jump water_90
                     "Feed":
@@ -58,15 +58,15 @@ label simbutton:
                                     "Like a dog":
                                         jump hunger_obe
                                     "Like a human":
-                                        "The vine release [p]"
+                                        "The vine releases [p]."
                                         p "?"
-                                        "[d] throws [p] the fruits."
+                                        "[d] throws [p] some fruits."
                                         p "..."
                                         p "What do you want?"
-                                        d "So you prefer to eat them on the ground then?"
+                                        d "So you'd prefer to eat them on the ground then?"
                                         p "..."
                                         "[p] eats the fruits."
-                                        
+
                             elif food >=40:
                                 jump hunger_none
                             elif 40>food>=30:
@@ -83,7 +83,7 @@ label simbutton:
                         else:
                             if pride >=90:
                                 jump touch_first
-                                
+
                             elif 90>pride>=50:
                                 if touchfirstnone:
                                     jump touch_first
@@ -96,7 +96,7 @@ label simbutton:
                                     jump touch
                                 else:
                                     jump touch_obe
-        
+
                     "Toy":
                         if ene <=0:
                             jump endday
@@ -109,13 +109,13 @@ label simbutton:
                                     jump toy_obe
                             elif pride >=90:
                                 jump toy_no
-                                        
+
                             elif 90>pride>=50:
                                 if toyfirst:
                                     jump toy_thrust_first
                                 else:
                                     jump toy_hook
-                                        
+
                             else:
                                 if toyfirst:
                                     jump toy_thrust_first
@@ -125,7 +125,7 @@ label simbutton:
                         jump dogtraining
                         jump simbutton
                     "Return":
-                        jump simbutton   
+                        jump simbutton
             "Sex":
                 menu:
                     "Oral":
@@ -141,7 +141,7 @@ label simbutton:
                                 jump cock_2
                             else:
                                 if controlStage >=3:
-                                    jump cock_end                           
+                                    jump cock_end
                                 else:
                                     jump cock_obe
                     "Anal":
@@ -162,10 +162,10 @@ label simbutton:
                                 jump ass_obe
                     "Group Sex" if group_baby ==True:
                         jump group2
-                        
+
                     "Group Sex" if group_nobaby ==True:
                         jump group2_nobaby
-                        
+
                     "Return":
                         jump simbutton
 
@@ -181,6 +181,3 @@ label simbutton:
                         jump control3
             "Let [p] rest":
                 jump endday
-   
-                
-            
